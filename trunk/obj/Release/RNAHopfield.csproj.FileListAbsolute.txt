@@ -1,0 +1,7 @@
+E:\Hopfield\RNAHopfield\bin\Release\RNAHopfield.exe
+E:\Hopfield\RNAHopfield\bin\Release\RNAHopfield.pdb
+E:\Hopfield\RNAHopfield\obj\Release\ResolveAssemblyReference.cache
+E:\Hopfield\RNAHopfield\obj\Release\RNAHopfield.graphics.GUIRna.resources
+E:\Hopfield\RNAHopfield\obj\Release\RNAHopfield.csproj.GenerateResource.Cache
+E:\Hopfield\RNAHopfield\obj\Release\RNAHopfield.exe
+E:\Hopfield\RNAHopfield\obj\Release\RNAHopfield.pdb

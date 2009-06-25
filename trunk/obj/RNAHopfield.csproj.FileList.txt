@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\RNAHopfield.exe
+bin\Debug\RNAHopfield.pdb
+obj\Debug\RNAHopfield.exe
+obj\Debug\RNAHopfield.pdb
+obj\Debug\RNAHopfield.graphics.GUIRna.resources
+obj\Debug\RNAHopfield.csproj.GenerateResource.Cache
+bin\Release\RNAHopfield.exe
+bin\Release\RNAHopfield.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\RNAHopfield.graphics.GUIRna.resources
+obj\Release\RNAHopfield.csproj.GenerateResource.Cache
+obj\Release\RNAHopfield.exe
+obj\Release\RNAHopfield.pdb
