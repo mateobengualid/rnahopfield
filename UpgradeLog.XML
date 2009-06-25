@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RNAHopfield">
+</Property><Property Name="Solution File" Value="J:\Facultad\IAR\Hopfield\RNAHopfield\RNAHopfield.sln">
+</Property><Property Name="Date" Value="lunes, 16 de febrero de 2009">
+</Property><Property Name="Time" Value="17:02:30 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="RNAHopfield" Source="RNAHopfield.csproj" Description="Project file successfully backed up as J:\Facultad\IAR\Hopfield\RNAHopfield\Backup\RNAHopfield.csproj">
+</Event><Event ErrorLevel="0" Project="RNAHopfield" Source="ActivacionEscalon.cs" Description="File successfully backed up as J:\Facultad\IAR\Hopfield\RNAHopfield\Backup\ActivacionEscalon.cs">
+</Event><Event ErrorLevel="0" Project="RNAHopfield" Source="ActivacionHiperbolica.cs" Description="File successfully backed up as J:\Facultad\IAR\Hopfield\RNAHopfield\Backup\ActivacionHiperbolica.cs">
+</Event><Event ErrorLevel="0" Project="RNAHopfield" Source="ActivacionSigmoide.cs" Description="File successfully backed up as J:\Facultad\IAR\Hopfield\RNAHopfield\Backup\ActivacionSigmoide.cs">
+</Event><Event ErrorLevel="0" Project="RNAHopfield" Source="Activacion.cs" Description="File successfully backed up as J:\Facultad\IAR\Hopfield\RNAHopfield\Backup\Activacion.cs">
+</Event><Event ErrorLevel="0" Project="RNAHopfield" Source="ExportadorHelper.cs" Description="File successfully backed up as J:\Facultad\IAR\Hopfield\RNAHopfield\Backup\ExportadorHelper.cs">
+</Event><Event ErrorLevel="0" Project="RNAHopfield" Source="GUIRna.cs" Description="File successfully backed up as J:\Facultad\IAR\Hopfield\RNAHopfield\Backup\GUIRna.cs">
+</Event><Event ErrorLevel="0" Project="RNAHopfield" Source="GUIRna.Designer.cs" Description="File successfully backed up as J:\Facultad\IAR\Hopfield\RNAHopfield\Backup\GUIRna.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RNAHopfield" Source="Neurona.cs" Description="File successfully backed up as J:\Facultad\IAR\Hopfield\RNAHopfield\Backup\Neurona.cs">
+</Event><Event ErrorLevel="0" Project="RNAHopfield" Source="Program.cs" Description="File successfully backed up as J:\Facultad\IAR\Hopfield\RNAHopfield\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="RNAHopfield" Source="RedHopfield.cs" Description="File successfully backed up as J:\Facultad\IAR\Hopfield\RNAHopfield\Backup\RedHopfield.cs">
+</Event><Event ErrorLevel="0" Project="RNAHopfield" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as J:\Facultad\IAR\Hopfield\RNAHopfield\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RNAHopfield" Source="Salida.cs" Description="File successfully backed up as J:\Facultad\IAR\Hopfield\RNAHopfield\Backup\Salida.cs">
+</Event><Event ErrorLevel="0" Project="RNAHopfield" Source="SalidaSumatoria.cs" Description="File successfully backed up as J:\Facultad\IAR\Hopfield\RNAHopfield\Backup\SalidaSumatoria.cs">
+</Event><Event ErrorLevel="0" Project="RNAHopfield" Source="GridPaint.cs" Description="File successfully backed up as J:\Facultad\IAR\Hopfield\RNAHopfield\Backup\GridPaint.cs">
+</Event><Event ErrorLevel="0" Project="RNAHopfield" Source="GridPaint.Designer.cs" Description="File successfully backed up as J:\Facultad\IAR\Hopfield\RNAHopfield\Backup\GridPaint.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RNAHopfield" Source="PESOS.TXT" Description="File successfully backed up as J:\Facultad\IAR\Hopfield\RNAHopfield\Backup\PESOS.TXT">
+</Event><Event ErrorLevel="0" Project="RNAHopfield" Source="GUIRna.resx" Description="File successfully backed up as J:\Facultad\IAR\Hopfield\RNAHopfield\Backup\GUIRna.resx">
+</Event><Event ErrorLevel="0" Project="RNAHopfield" Source="RNAHopfield.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RNAHopfield" Source="RNAHopfield.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RNAHopfield" Source="RNAHopfield.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

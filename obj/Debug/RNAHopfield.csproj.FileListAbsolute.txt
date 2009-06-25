@@ -1,0 +1,14 @@
+J:\Facultad\IAR\Hopfield\RNAHopfield\bin\Debug\RNAHopfield.exe
+J:\Facultad\IAR\Hopfield\RNAHopfield\bin\Debug\RNAHopfield.pdb
+J:\Facultad\IAR\Hopfield\RNAHopfield\obj\Debug\ResolveAssemblyReference.cache
+J:\Facultad\IAR\Hopfield\RNAHopfield\obj\Debug\RNAHopfield.graphics.GUIRna.resources
+J:\Facultad\IAR\Hopfield\RNAHopfield\obj\Debug\RNAHopfield.csproj.GenerateResource.Cache
+J:\Facultad\IAR\Hopfield\RNAHopfield\obj\Debug\RNAHopfield.exe
+J:\Facultad\IAR\Hopfield\RNAHopfield\obj\Debug\RNAHopfield.pdb
+E:\Hopfield\RNAHopfield\bin\Debug\RNAHopfield.exe
+E:\Hopfield\RNAHopfield\bin\Debug\RNAHopfield.pdb
+E:\Hopfield\RNAHopfield\obj\Debug\ResolveAssemblyReference.cache
+E:\Hopfield\RNAHopfield\obj\Debug\RNAHopfield.graphics.GUIRna.resources
+E:\Hopfield\RNAHopfield\obj\Debug\RNAHopfield.csproj.GenerateResource.Cache
+E:\Hopfield\RNAHopfield\obj\Debug\RNAHopfield.exe
+E:\Hopfield\RNAHopfield\obj\Debug\RNAHopfield.pdb
